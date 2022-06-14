@@ -6,7 +6,7 @@ Esta actividad consiste en comentar un reportaje o pieza de periodismo de datos.
 
 Para esta actividad dirigida, busqué varios medios que publican reportajes de datos. En esa búsqueda encontré la sección denominada __El Mundo Data__, del diario digital __El Mundo__. 
 
-Entre los trabajos publicados seleccioné uno sobre las __especies de animales en peligro de extinción__, amenazadas por el tráfico ilegal y otros factores. A continuación, dejo el [enlace](https//:www.elmundo.es/ciencia-y-salud).
+Entre los trabajos publicados seleccioné uno sobre las __especies de animales en peligro de extinción__, amenazadas por el tráfico ilegal y otros factores. A continuación, dejo el [enlace](https//:www.elmundo.es)
 
 De entrada, el titular *me pareció atractivo*. Decidieron hacer un reportaje escrito, combinado con ***gráficas e infografías*** sobre los datos obtenidos de las especies amenazadas o en peligro de extinción. 
 
