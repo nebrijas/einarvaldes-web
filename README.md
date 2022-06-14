@@ -29,4 +29,4 @@ A mi me quedó a deber un poco la ilustración o representación gráfica de las
 
 En general me pareció una pieza muy buena, con un contenido sumamente interesante, "y poco mejorable", como dijo el profesor.
 
-> Esto nos lleva a > caos!
+> "Esto nos lleva a > caos!"
