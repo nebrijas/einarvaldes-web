@@ -1,8 +1,8 @@
-# Actividad Dirigida 1.
+# Actividad Dirigida 1
 
 Esta actividad consiste en comentar un reportaje o pieza de periodismo de datos.
 
-## Comentario sobre la visualización de datos. Reporaje sobre el tráfico de especies en peligro de extinción, Diario El Mundo, España.
+## Comentario sobre la visualización de datos. Reporaje sobre el tráfico de especies en peligro de extinción, Diario El Mundo, España
 
 Para esta actividad dirigida, busqué varios medios que publican reportajes de datos. En esa búsqueda encontré la sección denominada __El Mundo Data__, del diario digital __El Mundo__. 
 
