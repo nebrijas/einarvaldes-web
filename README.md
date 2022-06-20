@@ -1,4 +1,4 @@
-# Actividad Dirigida 1
+# Repositorio de trabajo del módulo de Periodismo de Datos II
 
 Esta actividad consiste en comentar un reportaje o pieza de periodismo de datos.
 
@@ -27,8 +27,9 @@ Como __puntos débiles__ puedo indicar, tal vez, la extensión del reportaje. Pe
 
 A mi me quedó a deber un poco la ilustración o representación gráfica de las especies animales en peligro de extinción. Salvo las fotografías de los monos encadenados, creo que pudieron anexar otras imágenes de otras especies.
 
-En general me pareció una pieza muy buena, con un contenido sumamente interesante, "y poco mejorable", como dijo el profesor.
+En general me pareció una pieza muy buena, con un contenido sumamente interesante, "y poco mejorable".
 
-> "Esto nos lleva a > caos!"
+## Actividades  dirigidas
 
-Dieciseis en texto
+- [Actividad_dirigida_1](ad1.md)
+- [Actividad_dirigida_2](ad2.md)
