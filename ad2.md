@@ -1,6 +1,5 @@
 # Actividad Dirigida 2
 
-<<<<<<< HEAD
 La actividad dirigida que desarrollamos a continuación consisten en explicar el proceso realizado para el cambio de README.md a la Actividad dirigida 1 (ad1.md). Detallamos el proceso a continuación.
 1.	Convertir los archivos de Markdown a formato HTML. Para conseguirlo se siguen estos pasos:
 •	Acceder a https://github.com/nebrijas/einarvaldes-web/settings/pages (se aplica para cualquier repositorio, solo cambia el nombre de la cuenta).
@@ -71,5 +70,5 @@ La actividad dirigida que desarrollamos a continuación consisten en explicar el
 20. Comprobamos que ahora ya aparece la nueva carpeta _online_.
 
 Estos son los paso básicos aplicados para ejecutar la segunda actividad dirigida.
->>>>>>> b08bf592b4bab29f73dab616069db1603df87ffb
+
 
