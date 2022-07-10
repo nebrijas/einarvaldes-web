@@ -3,6 +3,9 @@
 Esta actividad consiste en comentar un reportaje o pieza de periodismo de datos.
 ## Comentario sobre la visualización de datos. Reporaje sobre el tráfico de especies en peligro de extinción, Diario El Mundo, España
 
+![Comercialización de especies en peligro](https://phantom-elmundo.unidadeditorial.es/c7607e583593fa4b6e8ee25dedf5f99d/resize/473/f/webp/assets/multimedia/imagenes/2021/12/29/16408144710211.jp "Paragüero y cenicero fabricados con patas de elefante.Belén García-Pozuelo.")
+
+
 Para esta actividad dirigida, busqué varios medios que publican reportajes de datos. En esa búsqueda encontré la sección denominada __El Mundo Data__, del diario digital __El Mundo__. 
 
 Entre los trabajos publicados seleccioné [Del cuerno de rinoceronte al guacamayo: Así opera en España el mercado negro de animales protegidos que sobrevive a la pandemia](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/30/61bcd569fc6c83a2308b459a.html)
