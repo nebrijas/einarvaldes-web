@@ -1,12 +1,11 @@
 # Repositorio de trabajo del módulo de Periodismo de Datos II
 
 Esta actividad consiste en comentar un reportaje o pieza de periodismo de datos.
-
 ## Comentario sobre la visualización de datos. Reporaje sobre el tráfico de especies en peligro de extinción, Diario El Mundo, España
 
 Para esta actividad dirigida, busqué varios medios que publican reportajes de datos. En esa búsqueda encontré la sección denominada __El Mundo Data__, del diario digital __El Mundo__. 
 
-Entre los trabajos publicados seleccioné uno sobre las __especies de animales en peligro de extinción__, amenazadas por el tráfico ilegal y otros factores. A continuación, dejo el [enlace](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/30/61bcd569fc6c83a2308b459a.html)
+Entre los trabajos publicados seleccioné [Del cuerno de rinoceronte al guacamayo: Así opera en España el mercado negro de animales protegidos que sobrevive a la pandemia](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/30/61bcd569fc6c83a2308b459a.html)
 
 De entrada, el titular *me pareció atractivo*. Decidieron hacer un reportaje escrito, combinado con ***gráficas e infografías*** sobre los datos obtenidos de las especies amenazadas o en peligro de extinción. 
 
@@ -28,8 +27,3 @@ Como __puntos débiles__ puedo indicar, tal vez, la extensión del reportaje. Pe
 A mi me quedó a deber un poco la ilustración o representación gráfica de las especies animales en peligro de extinción. Salvo las fotografías de los monos encadenados, creo que pudieron anexar otras imágenes de otras especies.
 
 En general me pareció una pieza muy buena, con un contenido sumamente interesante, "y poco mejorable".
-
-## Actividades  dirigidas
-
-- [Actividad_dirigida_1](ad1.md)
-- [Actividad_dirigida_2](ad2.md)
