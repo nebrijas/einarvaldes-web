@@ -7,5 +7,5 @@
 
 - [Actividad_dirigida_1](ad1.md)
 - [Actividad_dirigida_2](ad2.md)
-- [Actividad_dirigida_3](ad3.ipynb)
+- [Actividad_dirigida_3](ad3.md)
 - [Actividad_dirigida_4](ad4.md)
