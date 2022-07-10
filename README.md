@@ -1,6 +1,8 @@
 # Repositorio de trabajo del módulo de Periodismo de Datos II
 
-Índice de actividades dirigidas realizadas para la materia **Periodismo de Datos II HERRAMIENTAS DIGITALES PARA LA VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
+## Índice de actividades dirigidas. 
+
+En este respositorio se encontrarán todas las actividades dirigidas y otras asignaciones realizadas para la materia **Periodismo de Datos II HERRAMIENTAS DIGITALES PARA LA VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 
 
 ## Actividades  dirigidas
