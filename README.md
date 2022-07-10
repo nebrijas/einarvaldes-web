@@ -30,3 +30,36 @@ La guía colocada en la plataforma fue de gran ayuda; explicaba, por ejemplo, qu
 Para poner en práctica estas técnicas, debíamos escribir un comentario sobre un reportaje de datos, utilizando las características de *MarkDown*. 
 
 Este trabajo quedaría incluído en un repositorio en la plataforma *GitHub* y se convertiría en la primera actividad para ser evaluada.
+## Actividad dirigida 2
+
+Esta tarea estaba dividida en tres etapas:
+
+1. Convertir nuestro repositorio en una web servida desde Github. Es decir, utilizar una funcionalidad de Github para funcionar no solo como servidor de git sino también como servidor WEB. Para ello hay que activar en la configuración de nuestro repositorio la opción "Pages" cuya URL es, en mi caso https://github.com/nebrijas/einarvaldes-web/settings/pages 
+Luego de los pasos aplicados y explicados por el profesor, ya teníamos un archivo index.html cuyo contenido es el README.md que se ha exportado/convertido a **HTML**.
+
+2. Descargar el *software* **GitBash**. Con él debíamos clonar nuestro repositorio remoto. Con esta herramienta se aplicarían todos los cambios que hiciéramos de ahí en adelante en nuestro repositorio de **GitHub**.
+Realizamos cambios en la **ad1.md** y creamos los enlaces de la primera y segunda actividad. 
+Fue una parte clave porque, a partir de ahí, estaríamos creando nuestra propia web con su contenido.
+
+Aplicamos comandos claves para esta parte, tales como:
+- **pwd** para saber en qué directorio estábamos trabajando.
+- **ls** que se uusa para conocer la lista de archivos que encontramos en nuestro repositorio.
+- **cd** para cambiar de directorio.
+- **git status** se utiliza como indicador del estado en que se encuentran nuestros archivos.
+- **git commit -m** guarda los cambios efectuados.
+- **git push** sube los archivos al repositorio.
+
+3. Como se había creado el enlace de la ad2.md, dentro de él describimos los pasos para ejecutar todos estos procedimientos, utilizando las características del lenguaje *MarkDown*. 
+
+## Actividad dirigida 3
+
+El enfoque de esta actividad consistía en la *programación literaria*. Previamente ya debíamos tener instalado en nuestro ordenador el *software* conocido como **Anaconda**, dentro del cuál estaba el cuaderno de *Jupyter*. Esta herramienta nos permitiría explicar un código fuente de *Python* de una tarea que hicimos cuando dimos la clade de Programación en el máster. Aquí podíamos ejecutar el código *Python* y la programación literaria al mismo tiempo.
+
+El ejercicio consistió en la programación literiaria de ese código fuente y explicar todos los pasos que se aplicaron.
+
+## Actividad dirigida 4
+
+Fue la actividad que más relacioné con lo que esperaba de la asignatura inicialmente. Visualizamos datos utilizando las librerías de *Python* que instalamos previamente. Los datos para esta tarea fueron tomados de una **API** que recogía los datos relacionados al CODIV19 en diferentes países. 
+Inicialmente practicamos con los datos de España. Luego tomamos los datos de todos los países de Centroamérica y visualizamos los datos a través de unas gráficas. El resultado de todo el proceso explicado por el docente se encuentra en el enlace de la actividad dirigida 4.
+
+Culminadas todas las actividades, solo debíamos incluir en el **README.md** nuestras experiencias y aprendizajes en las actividades. Terminábamos, de esta forma, las clases de la última materia del Máster en Periodismo Digital y de Datos de la Universidad de Nebrija.
