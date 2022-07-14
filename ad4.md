@@ -22,7 +22,11 @@ Luego de instaladas las librerías de Pandas, colocamos ```import``` para tener 
 import pandas as pd
 ```
 
-Se utilizó *url* para hacer el vículo con la dirección del sitio web de donde se obtendrían los datos. Comprobamos que con introducir url la variable está relacionada automáticamente con esta dirección de la **API**. A través del siguiente código se le hace una petición de información a la **API** y el resultado se guarda en una variable. En esta caso particular, lo observamos en un modelo de cuadro.
+## Conexión a una URL
+
+Se utilizó *url* para hacer el vículo con la dirección del sitio web de donde se obtendrían los datos. Comprobamos que con introducir *url* la variable está relacionada automáticamente con esta dirección de la **API**. A través del siguiente código se le hace una petición de información a la **API** y el resultado se guarda en una variable. En esta caso particular, lo observamos en un modelo de cuadro.
+
+Este paso se muestra a continuación:
 
 
 
@@ -42,10 +46,16 @@ url
 
 
 
+## Data Frame
+
+Como el **API** tiene la información en un lista de datos **JSON**, creamos un *Data Frame df*, el cual se trata de una estructuras de lista de datos de *Python*, compuesto por la función de Pandas que permite leer el formato JSON.
+
 
 ```python
 df = pd.read_json(url)
 ```
+
+Nos aparecen los datos **JSON** en forma de tabla, luego de comprobarlo al invocarlo con ```df```
 
 
 ```python
@@ -152,6 +162,8 @@ df
 
 
 
+## Datos
+
 Se puede hacer un filtro de la fila requerida a través del siguiente código:
 
 
@@ -197,6 +209,8 @@ df[df["Country"] == "Spain"]
 </div>
 
 
+
+Como se observa, se utilizó ese código para obtener los datos relacionados con España.
 
 # Datos de Covid19 en tiempo real
 ## Información de España
@@ -637,7 +651,7 @@ casos_es.plot(title="Casos de Covid-19 en España",kind = "area")
 
 
     
-![png](output_19_1.png)
+![png](output_24_1.png)
     
 
 
@@ -895,7 +909,7 @@ casos_pa.plot(title="Casos de Covid-19 en Panamá",kind = "area")
 
 
     
-![png](output_24_1.png)
+![png](output_29_1.png)
     
 
 
@@ -1153,7 +1167,7 @@ casos_cr.plot(title="Casos de Covid-19 en Costa Rica",kind = "area")
 
 
     
-![png](output_29_1.png)
+![png](output_34_1.png)
     
 
 
@@ -1409,7 +1423,7 @@ casos_ni.plot(title="Casos de Covid-19 en Nicaragua",kind = "area")
 
 
     
-![png](output_33_1.png)
+![png](output_38_1.png)
     
 
 
@@ -1665,7 +1679,7 @@ casos_sv.plot(title="Casos de Covid-19 en El Salvador",kind = "area")
 
 
     
-![png](output_37_1.png)
+![png](output_42_1.png)
     
 
 
@@ -1921,7 +1935,7 @@ casos_hn.plot(title="Casos de Covid-19 en Honduras",kind = "area")
 
 
     
-![png](output_41_1.png)
+![png](output_46_1.png)
     
 
 
@@ -2177,7 +2191,7 @@ casos_gt.plot(title="Casos de Covid-19 en Guatemala",kind = "area")
 
 
     
-![png](output_45_1.png)
+![png](output_50_1.png)
     
 
 
@@ -2511,6 +2525,6 @@ casos_pa_cr_ni_gt_sv_hn.plot(title="Cuadro comparativo de casos Covid-19 en los 
 
 
     
-![png](output_51_1.png)
+![png](output_56_1.png)
     
 
